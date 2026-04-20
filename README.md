@@ -1,16 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Bootstrap Google Info Webpage
 
-# Google Info Page
+## 📌 Project Overview
+This project is a responsive Google information webpage built using **React, Vite, and Bootstrap (CDN)**. The goal was to recreate a given reference design using only Bootstrap for styling.
 
-A simple React app displaying information about Google, built with Vite and Bootstrap.
+## 🚀 Features
+- Responsive design using Bootstrap
+- Clean and structured layout
+- Navigation between sections/pages
+- Minimal and optimized dependencies
 
-## Run Locally
+## 🛠️ Tech Stack
+- React
+- Vite
+- Bootstrap (CDN)
 
-**Prerequisites:** Node.js
+## 📂 Project Setup
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+1. Clone the repository:
+```bash
+git clone https://github.com/MpuhweCoder/bootstrapWebpage.git
