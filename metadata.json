@@ -1,0 +1,6 @@
+{
+  "name": "Google Info Page",
+  "description": "A simple webpage providing information about Google, built using Bootstrap to replicate a specific design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
