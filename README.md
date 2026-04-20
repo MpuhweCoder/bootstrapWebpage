@@ -19,3 +19,9 @@ This project is a responsive Google information webpage built using **React, Vit
 1. Clone the repository:
 ```bash
 git clone https://github.com/MpuhweCoder/bootstrapWebpage.git
+Navigate to the project folder:
+cd bootstrapWebpage
+Install dependencies:
+npm install
+Run the project:
+npm run dev
